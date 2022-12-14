@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa75fcd2-6414-416d-af1d-ba99b5f4d1f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/WorkerA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/WorkerB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/google-java-format.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+    <list default="true" id="fa75fcd2-6414-416d-af1d-ba99b5f4d1f2" name="Changes" comment="Synchonizing threads.">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AppendedString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WorkerA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WorkerA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WorkerB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WorkerB.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,8 +84,16 @@
       <workItem from="1670923904184" duration="1105000" />
       <workItem from="1670944776458" duration="751000" />
       <workItem from="1670950337835" duration="3864000" />
-      <workItem from="1671018574463" duration="2363000" />
+      <workItem from="1671018574463" duration="2811000" />
     </task>
+    <task id="LOCAL-00001" summary="Synchonizing threads.">
+      <created>1671021211011</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671021211011</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +109,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Synchonizing threads." />
+    <option name="LAST_COMMIT_MESSAGE" value="Synchonizing threads." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/a2_1dv512$Main.ic" NAME="Main Coverage Results" MODIFIED="1670859607930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

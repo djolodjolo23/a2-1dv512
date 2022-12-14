@@ -19,11 +19,19 @@ public class WorkerA implements Runnable{
         } catch (InterruptedException e) {
           throw new RuntimeException(e);
         }
-        System.out.println("A");
+        AppendedString.addToString("A");
         counter++;
         semaphore.release();
         semaphore.notify();
-     }
+        if (counter == 10) {
+          break;
+        }
+        try {
+          semaphore.wait();
+        } catch (InterruptedException e) {
+          throw new RuntimeException(e);
+        }
+      }
     }
   }
 }
