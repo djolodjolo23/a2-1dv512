@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa75fcd2-6414-416d-af1d-ba99b5f4d1f2" name="Changes" comment="Synchonizing threads.">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AppendedString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+    <list default="true" id="fa75fcd2-6414-416d-af1d-ba99b5f4d1f2" name="Changes" comment="Added some comments inside the main.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/SuperWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/WorkerA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WorkerA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/WorkerB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WorkerB.java" afterDir="false" />
     </list>
@@ -84,7 +84,14 @@
       <workItem from="1670923904184" duration="1105000" />
       <workItem from="1670944776458" duration="751000" />
       <workItem from="1670950337835" duration="3864000" />
-      <workItem from="1671018574463" duration="2811000" />
+      <workItem from="1671018574463" duration="3063000" />
+      <workItem from="1671023602756" duration="4854000" />
+      <workItem from="1671094602437" duration="845000" />
+      <workItem from="1671117252504" duration="2005000" />
+      <workItem from="1671141614317" duration="1231000" />
+      <workItem from="1671179579008" duration="706000" />
+      <workItem from="1671359907216" duration="2829000" />
+      <workItem from="1671445834937" duration="854000" />
     </task>
     <task id="LOCAL-00001" summary="Synchonizing threads.">
       <created>1671021211011</created>
@@ -93,7 +100,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671021211011</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Task one completed!">
+      <created>1671021655629</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671021655629</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added some comments inside the main.">
+      <created>1671021837991</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671021837991</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,7 +133,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Synchonizing threads." />
-    <option name="LAST_COMMIT_MESSAGE" value="Synchonizing threads." />
+    <MESSAGE value="Task one completed!" />
+    <MESSAGE value="Added some comments inside the main." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some comments inside the main." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/a2_1dv512$Main.ic" NAME="Main Coverage Results" MODIFIED="1670859607930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
