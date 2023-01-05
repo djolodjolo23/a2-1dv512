@@ -18,10 +18,6 @@ public class Main {
     ta.join();
     tb.join();
 
-    System.out.println(AppendedString.getFinalString());
 
-
-
-///
   }
 }
