@@ -10,7 +10,7 @@ public abstract class SuperWorker {
       } catch (InterruptedException e) {
         throw new RuntimeException(e);
       }
-      AppendedString.addToString(letter);
+      System.out.print(letter);
       counter++;
       semaphore.release();
       semaphore.notify();
